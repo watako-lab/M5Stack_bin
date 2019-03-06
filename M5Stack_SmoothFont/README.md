@@ -1,5 +1,5 @@
 # About
-こちらの[TFT_eSPIライブラリ](https://github.com/Bodmer/TFT_eSPI)を使って、M5Stackでスムースフォントを表示してみたテストバイナリです。
+こちらの[TFT_eSPIライブラリ](https://github.com/Bodmer/TFT_eSPI)を使って、M5Stackでスムースフォントを表示してみたテストバイナリです。詳細記事は[こちらのブログ](http://watako-lab.com/2018/10/31/m5_font/)にて。
 
 # How to use
 1. sd_card下にあるフォントファイルをmicroSDのルートディレクトリにコピー。
