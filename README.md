@@ -2,7 +2,9 @@
 M5Stack用のバイナリファイル置き場。
 
 # How to use
-M5Stack本家から、M5Burnerをダウンロードし、各種バイナリを焼くことができます。
+1. Espressif本家サイトより、Flash Donwload Toolsをダウンロードする(Windows版のみっぽい)。
 
-M5Stack Dowload(https://www.m5stack.com/download)
+Espressif Flash Download Tools(https://www.espressif.com/en/support/download/other-tools?keys=Flash+Download+Tools)
+
+2. 
 
